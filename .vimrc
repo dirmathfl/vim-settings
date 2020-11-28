@@ -22,7 +22,7 @@ set smartindent
 set hlsearch
 set ignorecase
 set nu
-colorscheme default
+colorscheme jellybeans
 set tags=./tags;/
 set fileencoding=korea
 set fileencodings=ubs-bom,utf-8,korea
@@ -51,7 +51,3 @@ call vundle#begin()
 	 
 	" All of your Plugins must be added before the following line
 call vundle#end()
-
-:colorscheme jellybeans
-
-	
